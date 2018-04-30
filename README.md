@@ -25,3 +25,10 @@ Actividades de ejercicios en PHP
 *    *
 *    *
 ```
+--
+
+### Ejercicio PDO en php y Mysql
+> Con lo aprendido respecto a las variables de servidor ($_GET, $_POST)vamos a crear una agenda telefónica donde tengamos un CRUD completo para añadir editar y ver y eliminar los telefonos de nuestro contactos. Vamos a utilizar BootStrap para dar un formato a nuestra web. La base de datos agenda dispondrá de una tabla llamada teléfonos y tendrá los siguientes campos:
+* id integer autoincrementar.
+* Nombre varchar(45)
+* Telefono varchar(10)
