@@ -1,0 +1,16 @@
+{
+    "name": "hecto/actividades-php",
+    "authors": [
+        {
+            "name": "porta0",
+            "email": "1smrt.hporta@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "Controllers\\":"Controllers/",
+            "Models\\":"Models/"
+        }
+    }
+}
