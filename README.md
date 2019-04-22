@@ -9,12 +9,12 @@ Actividades de ejercicios en PHP
 >Genera un script que sume dos valores almacenadas en dos variables y muestre la operación. [x]
 
 ### Ejercicio para prácticar el bucle for.
->Mediante la utilización de los bucles for presenta por pantalla la tabla de multiplicación.
+>Mediante la utilización de los bucles for presenta por pantalla la tabla de multiplicación.[x]
 --
 ### Ejercicio silla de asteriscos.
 > Crea una aplicación que nos dibuje por pantalla una silla con *.
 > La única restricción que tiene una altura de 15 y la condición de que el asiento 
-> este situado la mitad + 1
+> este situado la mitad + 1 [x]
 ```
 *
 *
